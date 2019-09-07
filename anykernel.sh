@@ -4,7 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Septic Kernel 1.0 by Royal_Turd @ xda-developers
+kernel.string=  ____             _   _        _                        _ 
+/ ___|  ___ _ __ | |_(_) ___  | | _____ _ __ _ __   ___| |
+\___ \ / _ \ '_ \| __| |/ __| | |/ / _ \ '__| '_ \ / _ \ |
+ ___) |  __/ |_) | |_| | (__  |   <  __/ |  | | | |  __/ |
+|____/ \___| .__/ \__|_|\___| |_|\_\___|_|  |_| |_|\___|_|
+           |_|                                            
+         1.0 by Royal_Turd @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
