@@ -10,7 +10,6 @@ do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=rosy
-
 supported.versions=8.1,9.0
 supported.patchlevels=2018-01 -
 '; } # end properties
