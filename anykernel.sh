@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Septic Kernel by Royal_Turd @ xda-developers
+kernel.string=Septic Kernel 1.0 by Royal_Turd @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
