@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=septic Kernel V1.1 by Royal_Turd (Rudra Pratap Singh) @ xda-developers
+kernel.string=Mia Kernel V1.1 by Royal_Turd  
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=rosy
-supported.versions=8.1,9.0
+supported.versions=7.1.2-11
 supported.patchlevels=2018-01 -
 '; } # end properties
 
