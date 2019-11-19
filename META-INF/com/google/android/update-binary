@@ -118,10 +118,10 @@ fi;
 
 ui_print "==============================";
 ui_print "  MM       MM   III    AAAAA ";      
-ui_print "  MMM  MMM        AA      AA ";
-ui_print "  MM MM MM   III  AAAAAAA ";
-ui_print "  MM       MM   III  AA       AA ";
-ui_print "  MM       MM   III  AA        AA ";         
+ui_print "  MMM     MMM        AA     AA ";
+ui_print "  MM  MM   MM   III  AAAAAAAAA";
+ui_print "  MM       MM   III  AA     AA ";
+ui_print "  MM       MM   III  AA     AA ";         
 ui_print "==============================";
 ui_print "$(file_getprop anykernel.sh kernel.string)";
 if [ -f version ]; then
