@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Mia Kernel V1.1 by Royal_Turd  
+kernel.string=Mia Kernel V1.0 by Royal_Turd  
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
